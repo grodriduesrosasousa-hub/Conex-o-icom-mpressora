@@ -1,6 +1,6 @@
 # 🖨️ Controle da Impressora Elgin i9 em C
 
-**(Coloque aqui o nome do seu projeto)**
+CONEXÃO COM IMPRESSORA
 
 ## 📘 Sobre o Projeto
 
